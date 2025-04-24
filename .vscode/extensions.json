@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+      "esbenp.prettier-vscode",
+      "ecmel.vscode-html-css",
+      "ritwickdey.live-sass",
+      "dbaeumer.vscode-eslint",
+      "digitalbrainstem.javascript-ejs-support",
+      "christian-kohler.path-intellisense"
+    ],
+    "unwantedRecommendations": []
+  }
+  
